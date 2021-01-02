@@ -1,0 +1,9 @@
+  
+div{
+    background-color: #eee9d6;
+    height: 200px;
+    width: 300px;
+    border: 20px dashed red;
+    padding-left: 40px;
+    margin: 40px;
+}
